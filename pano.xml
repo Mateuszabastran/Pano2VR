@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama hassounds="0" apprev="20995" appversion="7.1.9" id="node1">
+  <input levelbiashidpi="1.000" width="2048" levelingroll="0" stereo="1" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" fliplr="0" height="2048" levelbias="0.400" levelingpitch="0" leveltilesize="510">
+    <level predecode="0" preload="0" width="2048" height="2048"/>
+    <level predecode="0" preload="0" width="1024" height="1024"/>
+    <level predecode="0" preload="0" width="512" height="512"/>
+    <level predecode="1" preload="1" width="256" height="256"/>
+    <preview color="0x808080" strip="1"/>
+  </input>
+  <view fovmode="2" pannorth="0">
+    <start tilt="0" fov="100" projection="4" pan="0"/>
+    <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+    <min tilt="-90" pan="0" fovpixel="2"/>
+    <max tilt="90" fovfisheye="360" fovstereographic="330" fov="140" pan="360" scaletofit="1"/>
+  </view>
+  <userdata title="" comment="" info="" latitude="" heading="0" longitude="" author="" nodeid="node1" customnodeid="" copyright="" datetime="" tags="Wizualizacje" source="" description=""/>
+  <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+    <label borderradius="1" enabled="1" width="180" textalpha="1" background="1" backgroundcolor="0xffffff" backgroundalpha="1" height="20" borderalpha="1" border="1" bordercolor="0x000000" wordwrap="1" textcolor="0x000000"/>
+    <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098"/>
+  </hotspots>
+  <media/>
+  <transition zoomin="0" enabled="1" delay="none" softedge="0" zoomout="0" zoomfov="40" type="crossdissolve" zoomspeed="2" zoomafterinfov="140" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomafteroutfov="40"/>
+  <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+  <control lockedkeyboardzoom="0" lockedkeyboard="0" lockedwheel="0" lockedmouse="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" hideabout="0" contextprojections="0" zoomcentercursor="1" invertcontrol="1" rubberband="0" invertwheel="0" sensitivity="8" speedwheel="1"/>
+  <projectuserdata description="" comment="" copyright="" tags="" author="" title=""/>
+</panorama>
